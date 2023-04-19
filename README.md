@@ -1,4 +1,4 @@
-# credit-card-transactions-fraud-analysis
+# Credit Card Transactions Fraud Analysis
 
 About the dataset:
 - This is a collection of about 100,000 real card transaction records from a US government organization, it looks like somewhere in Tennessee.
